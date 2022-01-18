@@ -6,6 +6,35 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
+
+# README
+
+This is the repository for the assignment of Harry Buckley in the module C7018 - 
+Statistical Analysis for Data Science. 
+
+This is in accordance with the requirements 
+to gain a Masters degree in Data Science for Global Agriculture.
+
+The objectives of this assignment are:
+
+ 1.Use different pre-trained models to identify an image of a healthy leaf, a late blight infected leaf and an early blight infected leaf.
+ 2.Tune the model that produced the lowest validation accuracy, in the first run, to see if it is possible to outperform the initial validation accuracy of the best performing model (first run).
+ 
+# Files 
+[PDF of report](https://github.com/BUCKERS99/C7082---Assignment/blob/main/17239400_C7082.pdf)
+
+[Model coding](https://github.com/BUCKERS99/C7082---Assignment/blob/main/C7082_assignment_coding.ipynb)
+
+[Image folder creation coding](https://github.com/BUCKERS99/C7082---Assignment/blob/main/Train_test_val_folder_coding.ipynb)
+
+[Image renaming coding](https://github.com/BUCKERS99/C7082---Assignment/blob/main/C7082_file_rename_coding.ipynb)
+
+[Plots folder](https://github.com/BUCKERS99/C7082---Assignment/tree/main/Plots)
+
+[Images folder](https://github.com/BUCKERS99/C7082---Assignment/tree/main/Images)
+
+[Potato leaf images for analysis](https://github.com/BUCKERS99/C7082---Assignment/tree/main/potato_leaf_pics)
+
 
