@@ -1,8 +1,9 @@
 ---
-title: "17239400 C7082 Assignment"
-author: "Harry Buckley"
+title: "C7082 Assignment"
+author: "17239400 - Harry Buckley"
 date: "17/01/2022"
 output: pdf_document
+url: https://github.com/BUCKERS99/C7082---Assignment/
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +17,7 @@ setwd("~/MSc/Git Repository/C7082-Assignment/C7082---Assignment")
 ```
 
 \newpage
-(https://github.com/BUCKERS99)
+https://github.com/BUCKERS99/C7082---Assignment/
 
 # Background
 Potato blight is a disease that has a historically noticeable presence and has caused food shortages in a rang of countries; the most harrowing example is the Irish potato famine around 1845 (O’Neill, 2009). The current methods of controlling the disease, caused by the fungus Phytophthora infestans, (late blight)  and Alternaria Solani, (early blight), is to employ a spray program that requires field wide chemical treatment of crops on a regular basis: up to twice a week, depending on the chemical being used(Leesutthiphonchai et al., 2018). With the world population increasing to around 9.1 billion by 2050 (Cohen, 2001) the need for secure food production in the future is important if we are to supply the increase in people. With genetic modification (GM) currently not an option in the UK, a line of potatoes with full resistance to blight would not be available for at least 30 years, due to the time it takes to breed in a gene (Ceccarelli, 2015; Haverkort et al., 2009). 
@@ -181,6 +182,7 @@ With this in mind, our results are not able to be used in a commercial setting (
 
 In conclusion the implementation of deep learning into the agricultural sector has the potential for huge increases in environmental and economic sustainability. With the world population increasing food security it paramount to both developed and developing countries and methods of identification using computer vision could revolutionise the industry. It is necessary however for a higher accuracy than the one recorded during this report to minimise misclassification. 
 
+\newpage 
 # References
 
 Bailey, R.L., West Jr, K.P. and Black, R.E., 2015. The epidemiology of global micronutrient deficiencies. Annals of Nutrition and Metabolism, 66(Suppl. 2), pp.22-33.
