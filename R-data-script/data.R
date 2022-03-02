@@ -1,4 +1,5 @@
 # Just make the data folders omg
+
 # run this once then comment out (should be in repo)
 # dir.create('../pics')
 # dir.create('../pics/train')
